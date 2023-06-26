@@ -1,1 +1,3 @@
-# cloud-continuos-monitoring
+## Desenho solução
+
+<img src="arquivos/arquitetura-solucao.png">
